@@ -1,0 +1,10 @@
+dashbaord,
+#dashboard {
+  display: flex;
+  height: 100%;
+  width: 100%;
+}
+
+#leftSide {
+  width: 100%;
+}

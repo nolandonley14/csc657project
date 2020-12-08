@@ -1,0 +1,47 @@
+Label.ProfileNameLabel {
+    color: darkslategray;
+    font-size: 3rem;
+    font-weight: lighter;
+}
+
+Label.PMNameLabel {
+    color: darkslategray;
+}
+
+Label {
+    color: lightslategray;
+}
+
+#profile {
+    background-color: aliceblue;
+}
+
+#profilePic {
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+#biographyLabel {
+    display: inline-block;
+    width: 75%;
+    text-align: center;
+}
+
+#profileImages {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.images {
+    margin: 0;
+    object-fit: cover;
+    width: 200px;
+    height: 200px;
+}
+
+
+
+.image2 {
+    padding-left: 8px;
+    padding-right: 8px;
+}

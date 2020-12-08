@@ -1,0 +1,8 @@
+swipe-section-view,
+#swipe-section-view {
+    margin: 0;
+}
+
+#matchPicture {
+    object-fit: cover;
+}
